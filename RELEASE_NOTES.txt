@@ -1,0 +1,29 @@
+[Release notes for CON-FMC 2018.06]
+
+June 5, 2018
+
+Copyright (c) 2018 by Future Design Systems, Inc.
+All rights reserved.
+
+--------------------------------------------------------------------------------
+Release announcements in CON-FMC 2018.06
+
+--------------------------------------------------------------------------------
+Compatibility issues with CON-FMC 2018.06
+
+--------------------------------------------------------------------------------
+
+[Release notes for CON-FMC 2018.05]
+
+May 5, 2018
+
+Copyright (c) 2018 by Future Design Systems, Inc.
+All rights reserved.
+
+--------------------------------------------------------------------------------
+Release announcements in CON-FMC 2018.05
+
+--------------------------------------------------------------------------------
+Compatibility issues with CON-FMC 2018.05
+
+--------------------------------------------------------------------------------
